@@ -6,10 +6,11 @@
 
 using boost::asio::ip::tcp;
 
-const std::string hostUrl = "www.footballwebpages.co.uk";
-const std::string requestLeague = "/league.json?comp=1";
+const std::string HostUrl = "www.footballwebpages.co.uk";
+const std::string RequestLeague = "/league.json?comp=1";
 
-int main(int argc, char* argv[])
+// TODO: return string instead of printing to cout
+int getRequest(const std::string hostStr, const std::string requestStr)
 {
 	try
 	{
@@ -17,7 +18,7 @@ int main(int argc, char* argv[])
 
 		// Get a list of endpoints corresponding to the server name
 		tcp::resolver resolver(io_service);
-		tcp::resolver::query query("www.footballwebpages.co.uk", "http");
+		tcp::resolver::query query(hostStr, "http");
 		tcp::resolver::iterator endpoint_iterator = resolver.resolve(query);
 
 		// Try each endpoint until we successfully establish a connection
@@ -29,8 +30,8 @@ int main(int argc, char* argv[])
 		// allow us to treat all data up until the EOF as the content
 		boost::asio::streambuf request;
 		std::ostream request_stream(&request);
-		request_stream << "GET " << "/league.json?comp=1" << " HTTP/1.0\r\n";
-		request_stream << "Host: " << "www.footballwebpages.co.uk" << "\r\n";
+		request_stream << "GET " << requestStr << " HTTP/1.0\r\n";
+		request_stream << "Host: " << hostStr << "\r\n";
 		request_stream << "Accept: */*\r\n";
 		request_stream << "Connection: close\r\n\r\n";
 
@@ -75,7 +76,9 @@ int main(int argc, char* argv[])
 
 		// Write whatever content we already have to output
 		if (response.size() > 0)
-		std::cout << &response;
+		{
+			std::cout << &response;
+		}			
 
 		// Read until EOF, writing data to output as we go
 		boost::system::error_code error;
@@ -94,6 +97,13 @@ int main(int argc, char* argv[])
 	{
 		std::cout << "Exception: " << e.what() << "\n";
 	}
+
+	return 0;
+}
+
+int main(int argc, char* argv[])
+{
+	getRequest(HostUrl, RequestLeague);
 
 	return 0;
 }

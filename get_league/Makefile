@@ -14,4 +14,4 @@ all: getLeagueBoost getLeagueHttp
 clean:
 	rm -f getLeagueBoost getLeagueHttp a.out
 
-.PHONY: all clean
+.PHONY: all clean getLeagueBoost
