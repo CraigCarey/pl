@@ -6,96 +6,99 @@
 
 using boost::asio::ip::tcp;
 
-const std::string HostUrl = "www.footballwebpages.co.uk";
-const std::string RequestLeague = "/league.json?comp=1";
-
-// TODO: return string instead of printing to cout
-int getRequest(const std::string hostStr, const std::string requestStr)
+int getRequest(std::string hostStr, std::string requestStr, std::string &responseStr)
 {
 	try
 	{
-		boost::asio::io_service io_service;
+		// core I/O functionality for asynchronous I/O objects, including tcp::socket
+		boost::asio::io_service ioService;
 
 		// Get a list of endpoints corresponding to the server name
-		tcp::resolver resolver(io_service);
+		tcp::resolver resolver(ioService);
 		tcp::resolver::query query(hostStr, "http");
-		tcp::resolver::iterator endpoint_iterator = resolver.resolve(query);
+		tcp::resolver::iterator endpointIterator = resolver.resolve(query);
 
 		// Try each endpoint until we successfully establish a connection
-		tcp::socket socket(io_service);
-		boost::asio::connect(socket, endpoint_iterator);
+		tcp::socket socket(ioService);
+		boost::asio::connect(socket, endpointIterator);
 
 		// Form the request. We specify the "Connection: close" header so that the
 		// server will close the socket after transmitting the response. This will
 		// allow us to treat all data up until the EOF as the content
 		boost::asio::streambuf request;
 		std::ostream request_stream(&request);
-		request_stream << "GET " << requestStr << " HTTP/1.0\r\n";
+		request_stream << "GET " << requestStr << " HTTP/1.1\r\n";
 		request_stream << "Host: " << hostStr << "\r\n";
 		request_stream << "Accept: */*\r\n";
 		request_stream << "Connection: close\r\n\r\n";
 
-		// Send the request.
+		// Send the request
 		boost::asio::write(socket, request);
 
 		// Read the response status line. The response streambuf will automatically
 		// grow to accommodate the entire line. The growth may be limited by passing
-		// a maximum size to the streambuf constructor.
+		// a maximum size to the streambuf constructor
 		boost::asio::streambuf response;
 		boost::asio::read_until(socket, response, "\r\n");
 
 		// Check that response is OK
-		std::istream response_stream(&response);
-		std::string http_version;
-		response_stream >> http_version;
-		unsigned int status_code;
-		response_stream >> status_code;
-		std::string status_message;
-		std::getline(response_stream, status_message);
+		std::istream responseStream(&response);
+		std::string httpVersion;
+		responseStream >> httpVersion;
+		unsigned int statusCode;
+		responseStream >> statusCode;
+		std::string statusMessage;
+		std::getline(responseStream, statusMessage);
 
-		if (!response_stream || http_version.substr(0, 5) != "HTTP/")
+		if (!responseStream || httpVersion.substr(0, 5) != "HTTP/")
 		{
-			std::cout << "Invalid response\n";
+			std::cerr << "Invalid response\n";
 			return 1;
 		}
 
-		if (status_code != 200)
+		if (statusCode != 200)
 		{
-			std::cout << "Response returned with status code " << status_code << "\n";
+			std::cerr << "Response returned with status code " << statusCode << "\n";
 			return 1;
 		}
 
 		// Read the response headers, which are terminated by a blank line
 		boost::asio::read_until(socket, response, "\r\n\r\n");
 
-		// Process the response headers
+		// Consume the response headers
 		std::string header;
-		while (std::getline(response_stream, header) && header != "\r")
-		std::cout << header << "\n";
-		std::cout << "\n";
+		while (std::getline(responseStream, header) && header != "\r")
+		{
+			// std::cout << header << "\n";
+		}
+		
+		std::ostringstream responseStrStream;
 
-		// Write whatever content we already have to output
+		// Write whatever content we already have to stringStream
 		if (response.size() > 0)
 		{
-			std::cout << &response;
-		}			
+			responseStrStream << &response;
+		}
 
-		// Read until EOF, writing data to output as we go
+		// Read until EOF, writing data to stringStream as we go
 		boost::system::error_code error;
 
 		while (boost::asio::read(socket, response, boost::asio::transfer_at_least(1), error))
 		{
-			std::cout << &response;
+			responseStrStream << &response;
 		}
 
 		if (error != boost::asio::error::eof)
 		{
 			throw boost::system::system_error(error);
 		}
+
+		responseStr = responseStrStream.str();
 	}
 	catch (std::exception& e)
 	{
-		std::cout << "Exception: " << e.what() << "\n";
+		std::cerr << "Exception: " << e.what() << "\n";
+		return 1;
 	}
 
 	return 0;
@@ -103,7 +106,19 @@ int getRequest(const std::string hostStr, const std::string requestStr)
 
 int main(int argc, char* argv[])
 {
-	getRequest(HostUrl, RequestLeague);
+
+	const std::string HostUrl = "www.footballwebpages.co.uk";
+	const std::string RequestLeague = "/league.json?comp=1";
+
+	std::string plString;
+
+	if (getRequest(HostUrl, RequestLeague, plString))
+	{
+		std::cerr << "Failed to retrieve league data" << std::endl;
+		return 1;
+	}
+
+	std::cout << plString;
 
 	return 0;
 }
