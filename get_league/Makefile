@@ -9,9 +9,12 @@ getLeagueBoost:
 getLeagueHttp:
 	$(CC) $(CXX_FLAGS) $@.cpp -o $@
 
-all: getLeagueBoost getLeagueHttp
+jsonParser:
+	$(CC) $(CXX_FLAGS) $@.cpp -o $@
+
+all: getLeagueBoost getLeagueHttp jsonParser
 
 clean:
-	rm -f getLeagueBoost getLeagueHttp a.out
+	rm -f getLeagueBoost getLeagueHttp jsonParser a.out
 
-.PHONY: all clean getLeagueBoost
+.PHONY: all clean getLeagueBoost jsonParser
