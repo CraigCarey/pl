@@ -1,20 +1,17 @@
 CC=g++
 LDLIBS=-lboost_system -lpthread
-CXX_FLAGS=-std=c++11 -Wall
+CXX_FLAGS=-std=c++11 -Wall -g --coverage
 INC=-I/usr/include/boost
+
+all: getLeagueBoost jsonParser
 
 getLeagueBoost:
 	$(CC) $(CXX_FLAGS) $(INC) $@.cpp -o $@ $(LDLIBS)
 
-getLeagueHttp:
-	$(CC) $(CXX_FLAGS) $@.cpp -o $@
-
 jsonParser:
 	$(CC) $(CXX_FLAGS) $@.cpp -o $@
 
-all: getLeagueBoost getLeagueHttp jsonParser
-
 clean:
-	rm -f getLeagueBoost getLeagueHttp jsonParser a.out
+	rm -f getLeagueBoost jsonParser a.out *.d *.o *.gc*
 
 .PHONY: all clean getLeagueBoost jsonParser
