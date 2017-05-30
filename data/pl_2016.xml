@@ -1,0 +1,3042 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE matchGrid SYSTEM "http://www.footballwebpages.co.uk/DTDs/matchGrid.dtd">
+<matchGrid>
+	<competition>Barclays Premier League</competition>
+	<match>
+		<date>Tue Jan 03 19:45:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>11202</attendance>
+	</match>
+	<match>
+		<date>Sat May 13 15:00:00 BST 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>11388</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 17:30:00 BST 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>11283</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>11286</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>11291</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 15:00:00 BST 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>6</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>11029</attendance>
+	</match>
+	<match>
+		<date>Tue Dec 13 19:45:00 GMT 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>11068</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 04 13:30:00 GMT 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>11183</attendance>
+	</match>
+	<match>
+		<date>Mon Feb 13 20:00:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>11129</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 14 13:30:00 BST 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>11355</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 22 15:00:00 BST 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>10890</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 18 13:30:00 GMT 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>11113</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 15:00:00 BST 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>11046</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 05 15:00:00 GMT 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>11084</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 17:30:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>11240</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 12:30:00 BST 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>11201</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 15:00:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>11123</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>11184</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 11 15:00:00 GMT 2017</date>
+		<homeTeam>AFC Bournemouth</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>11369</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 27 14:15:00 GMT 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>59978</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 22 14:15:00 GMT 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>59955</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 17:30:00 BST 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>60028</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 01 16:00:00 GMT 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>59975</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>59976</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 12:30:00 GMT 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>59962</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 26 19:45:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>59829</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 14 16:00:00 BST 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>60033</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 02 16:00:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>60001</attendance>
+	</match>
+	<match>
+		<date>Sun May 07 16:00:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>60055</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>59962</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>59962</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 15:00:00 GMT 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>59964</attendance>
+	</match>
+	<match>
+		<date>Tue May 16 19:45:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>59510</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 15:00:00 BST 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>60007</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 06 12:00:00 GMT 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>60039</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>60035</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>59925</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 19:45:00 BST 2017</date>
+		<homeTeam>Arsenal</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>59961</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 15:00:00 GMT 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>19680</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 02 16:30:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>20982</attendance>
+	</match>
+	<match>
+		<date>Sun Feb 12 13:30:00 GMT 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>21744</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 05 15:00:00 GMT 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>19196</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>21416</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>18803</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>19202</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 15:00:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>21313</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 12:30:00 GMT 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>21794</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 23 14:15:00 BST 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>21870</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>21562</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>20254</attendance>
+	</match>
+	<match>
+		<date>Tue Apr 04 19:45:00 BST 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>19881</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>21124</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 15:00:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>19126</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>21684</attendance>
+	</match>
+	<match>
+		<date>Mon Sep 26 20:00:00 BST 2016</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>18519</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 15:00:00 BST 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>20825</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Burnley</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>21634</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>41384</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 12:30:00 GMT 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>41490</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>41607</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>41489</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 05 17:30:00 GMT 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>41429</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 22 16:30:00 GMT 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>41605</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 12:30:00 BST 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>41457</attendance>
+	</match>
+	<match>
+		<date>Fri Sep 16 20:00:00 BST 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>41514</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 20:00:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>41528</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 23 16:00:00 BST 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>41424</attendance>
+	</match>
+	<match>
+		<date>Mon May 08 20:00:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>41500</attendance>
+	</match>
+	<match>
+		<date>Tue Apr 25 19:45:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>41168</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>41601</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>41618</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 15:00:00 GMT 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>41612</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 17:30:00 GMT 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>41513</attendance>
+	</match>
+	<match>
+		<date>Mon May 15 20:00:00 BST 2017</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>41473</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 11 12:00:00 GMT 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>41622</attendance>
+	</match>
+	<match>
+		<date>Mon Aug 15 20:00:00 BST 2016</date>
+		<homeTeam>Chelsea</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>41521</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>23503</attendance>
+	</match>
+	<match>
+		<date>Mon Apr 10 20:00:00 BST 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>25648</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 29 17:30:00 BST 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>25013</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 12:30:00 GMT 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>25259</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 15:00:00 GMT 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>25594</attendance>
+	</match>
+	<match>
+		<date>Sun May 14 12:00:00 BST 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>25176</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 15:00:00 BST 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>25504</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 17:30:00 BST 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>25628</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>25529</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 20:00:00 GMT 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>25547</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 15:00:00 GMT 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>25416</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 15:00:00 GMT 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>25393</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 18 14:15:00 BST 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>23781</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>25310</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 03 20:00:00 GMT 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+	</match>
+	<match>
+		<date>Wed Apr 26 20:00:00 BST 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>25596</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 15:00:00 GMT 2017</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>25109</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 15:00:00 BST 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>24490</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 17:30:00 BST 2016</date>
+		<homeTeam>Crystal Palace</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>25643</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>6</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>39026</attendance>
+	</match>
+	<match>
+		<date>Tue Dec 13 19:45:00 GMT 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>39510</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 15:00:00 BST 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>39328</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 30 14:05:00 BST 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>39595</attendance>
+	</match>
+	<match>
+		<date>Fri Sep 30 20:00:00 BST 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>38758</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 15:00:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>39248</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 09 16:00:00 BST 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>39573</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 19 20:00:00 GMT 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>39590</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 15 13:30:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>39588</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 04 16:00:00 GMT 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>39550</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 17 17:30:00 BST 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>39074</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 15:00:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>38891</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>39581</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 15:00:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>39595</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>38773</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 15:00:00 BST 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>34494</attendance>
+	</match>
+	<match>
+		<date>Fri May 12 19:45:00 BST 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>38550</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 11 15:00:00 GMT 2017</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>39592</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 30 13:30:00 GMT 2016</date>
+		<homeTeam>Everton</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>39574</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>17963</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 17 15:00:00 BST 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>22536</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 15:00:00 GMT 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>20156</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 01 15:00:00 BST 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>21257</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 15:00:00 GMT 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>17403</attendance>
+	</match>
+	<match>
+		<date>Fri Dec 30 20:00:00 GMT 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>20111</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 12:30:00 BST 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>21037</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>24822</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 17:15:00 GMT 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>23134</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 17:30:00 BST 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>24560</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 19:45:00 BST 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>20380</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 06 14:15:00 GMT 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>17768</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>18522</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 15:00:00 BST 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>22480</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 11 15:00:00 GMT 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>19195</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>7</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>23804</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 22 15:00:00 BST 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>20432</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 15:00:00 GMT 2016</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>18086</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Hull City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>20820</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>32000</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 17:30:00 BST 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>32008</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 17 15:00:00 BST 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>31916</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 17:30:00 GMT 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>32066</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>31969</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>31985</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 15:00:00 GMT 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>31971</attendance>
+	</match>
+	<match>
+		<date>Mon Feb 27 20:00:00 GMT 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>32034</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 17:30:00 GMT 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>31966</attendance>
+	</match>
+	<match>
+		<date>Sun Feb 05 16:00:00 GMT 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>32072</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 15:00:00 GMT 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>32058</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 02 14:15:00 BST 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>31563</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>31958</attendance>
+	</match>
+	<match>
+		<date>Tue Apr 04 19:45:00 BST 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>31757</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>31727</attendance>
+	</match>
+	<match>
+		<date>Thu May 18 19:45:00 BST 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>6</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>31351</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 15:00:00 BST 2017</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>31628</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 06 16:30:00 GMT 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>31879</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Leicester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>32060</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 20:00:00 BST 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>53292</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 17:30:00 GMT 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>53146</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 12 16:00:00 GMT 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>53145</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 20:00:00 GMT 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>53157</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 23 16:30:00 BST 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>53086</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 12:30:00 BST 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>52920</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>53109</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 17:30:00 BST 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>51232</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 17:30:00 GMT 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>53120</attendance>
+	</match>
+	<match>
+		<date>Mon Oct 17 20:00:00 BST 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>52769</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>53191</attendance>
+	</match>
+	<match>
+		<date>Sun May 07 13:30:00 BST 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>53159</attendance>
+	</match>
+	<match>
+		<date>Tue Dec 27 17:15:00 GMT 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>53094</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 15:00:00 GMT 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>53114</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 12:30:00 GMT 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>53169</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 17:30:00 GMT 2017</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>53159</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 06 14:15:00 GMT 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>6</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>53163</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 17:30:00 BST 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>53218</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 11 16:30:00 GMT 2016</date>
+		<homeTeam>Liverpool</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>53068</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 17 15:00:00 BST 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>54335</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 18 16:00:00 GMT 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>54409</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 15:00:00 GMT 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>54463</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 12:30:00 GMT 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>54457</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 12:30:00 BST 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>54119</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 15:00:00 BST 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>54512</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 15:00:00 BST 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>54393</attendance>
+	</match>
+	<match>
+		<date>Sat May 13 12:30:00 BST 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>54407</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 19 16:30:00 GMT 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>54449</attendance>
+	</match>
+	<match>
+		<date>Thu Apr 27 20:00:00 BST 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>54176</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 05 15:00:00 GMT 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>54294</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 23 13:30:00 BST 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>53731</attendance>
+	</match>
+	<match>
+		<date>Wed Mar 08 20:00:00 GMT 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>52625</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 17:30:00 BST 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>54362</attendance>
+	</match>
+	<match>
+		<date>Sun Feb 05 13:30:00 GMT 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>54065</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 17:30:00 GMT 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>54402</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 20:00:00 GMT 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>51527</attendance>
+	</match>
+	<match>
+		<date>Tue May 16 20:00:00 BST 2017</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>53624</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 28 16:00:00 BST 2016</date>
+		<homeTeam>Manchester City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>54008</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 12:30:00 GMT 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>75245</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 12:30:00 GMT 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>75264</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 15:00:00 BST 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>75325</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 16 16:00:00 BST 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>75272</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>75254</attendance>
+	</match>
+	<match>
+		<date>Tue Apr 04 20:00:00 BST 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>75272</attendance>
+	</match>
+	<match>
+		<date>Wed Feb 01 20:00:00 GMT 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>75297</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 12:30:00 BST 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>75256</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 15 16:00:00 GMT 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>75276</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 12:30:00 BST 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>75272</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>75314</attendance>
+	</match>
+	<match>
+		<date>Fri Aug 19 20:00:00 BST 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>75326</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 02 12:00:00 BST 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>75251</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>75325</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 30 12:00:00 BST 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>75271</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 11 14:15:00 GMT 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>75271</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 15:00:00 GMT 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>75301</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>75397</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 27 16:30:00 GMT 2016</date>
+		<homeTeam>Manchester United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>75313</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 15:00:00 BST 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>29600</attendance>
+	</match>
+	<match>
+		<date>Mon Apr 17 20:00:00 BST 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>31298</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 15:00:00 BST 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>29547</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 20 16:00:00 GMT 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>32704</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>30551</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 15:00:00 GMT 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>31496</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 05 20:00:00 GMT 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>27395</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 12:30:00 GMT 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>32437</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 19:45:00 GMT 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>32704</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 30 14:05:00 BST 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>29763</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 19 12:00:00 GMT 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>32689</attendance>
+	</match>
+	<match>
+		<date>Sat May 13 15:00:00 BST 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>28203</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 15:00:00 BST 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>32110</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 26 19:45:00 BST 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>30742</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 15:00:00 GMT 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>28302</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>32703</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 16 13:30:00 BST 2016</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>28131</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>27316</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 15:00:00 GMT 2017</date>
+		<homeTeam>Middlesbrough</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>30848</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 17:30:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>31847</attendance>
+	</match>
+	<match>
+		<date>Wed May 10 19:45:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>31474</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 16 16:00:00 BST 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>29040</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 30 16:00:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>31827</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 19:45:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>29968</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 27 16:30:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>31132</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 29 15:00:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>31120</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 22 12:00:00 GMT 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>30548</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>31848</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 17:30:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>31850</attendance>
+	</match>
+	<match>
+		<date>Wed May 17 19:45:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>31425</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 11 14:15:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>28976</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>31286</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>30152</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 18 14:15:00 BST 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>29087</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 28 19:45:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>31853</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 13 15:00:00 BST 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>31488</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>30975</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>Southampton</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>31891</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>27815</attendance>
+	</match>
+	<match>
+		<date>Sat May 13 17:30:00 BST 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>27535</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 15:00:00 GMT 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>27306</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 15:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>27724</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 15:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>27007</attendance>
+	</match>
+	<match>
+		<date>Wed Feb 01 20:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>27612</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 15:00:00 BST 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>27505</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 15:00:00 GMT 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>27663</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 15:00:00 BST 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>27568</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 12:30:00 BST 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>27455</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 15:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>27423</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 15:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>27644</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 20:00:00 GMT 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>27002</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 15:00:00 BST 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>27701</attendance>
+	</match>
+	<match>
+		<date>Mon Oct 31 20:00:00 GMT 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>26602</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>27385</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 03 20:00:00 GMT 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>27645</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 29 15:00:00 BST 2017</date>
+		<homeTeam>Stoke City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>27628</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 29 15:00:00 BST 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>38394</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 12:30:00 BST 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>44322</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 15:00:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>41518</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 19:45:00 GMT 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>41008</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>38941</attendance>
+	</match>
+	<match>
+		<date>Mon Sep 12 20:00:00 BST 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>42406</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>41271</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 15:00:00 GMT 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>39725</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 15:00:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>46494</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 05 16:00:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>41107</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 09 13:30:00 BST 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>43779</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 21 13:30:00 BST 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>43515</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 15:00:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>39931</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>42722</attendance>
+	</match>
+	<match>
+		<date>Sat May 13 15:00:00 BST 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>38781</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>40058</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 15:00:00 GMT 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>40267</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 01 15:00:00 BST 2016</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>40043</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 15:00:00 BST 2017</date>
+		<homeTeam>Sunderland</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>40168</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 31 15:00:00 GMT 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>20316</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>20875</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 15:00:00 GMT 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>20679</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 11 16:00:00 BST 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>20865</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 26 15:00:00 GMT 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>20276</attendance>
+	</match>
+	<match>
+		<date>Sat May 06 17:30:00 BST 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>20827</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 15:00:00 BST 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>20024</attendance>
+	</match>
+	<match>
+		<date>Sun Feb 12 16:00:00 GMT 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>20391</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 01 12:30:00 BST 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>20862</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 24 15:00:00 BST 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>20786</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 06 15:00:00 GMT 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>20938</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 02 13:30:00 BST 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>20354</attendance>
+	</match>
+	<match>
+		<date>Tue Jan 31 19:45:00 GMT 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>20359</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 22 15:00:00 BST 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>20566</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 15:00:00 GMT 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>20453</attendance>
+	</match>
+	<match>
+		<date>Wed Apr 05 19:45:00 BST 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>20855</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>20694</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>20889</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 15:00:00 GMT 2016</date>
+		<homeTeam>Swansea City</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>20757</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 12:30:00 BST 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>31943</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 30 16:30:00 BST 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>31811</attendance>
+	</match>
+	<match>
+		<date>Sun Dec 18 16:00:00 GMT 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>31467</attendance>
+	</match>
+	<match>
+		<date>Wed Jan 04 20:00:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>31491</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 15:00:00 BST 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>31447</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 05 13:30:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>31962</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 20:00:00 GMT 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>31347</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 15:00:00 BST 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>31868</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 12:30:00 BST 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>31211</attendance>
+	</match>
+	<match>
+		<date>Sun Oct 02 14:15:00 BST 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>31793</attendance>
+	</match>
+	<match>
+		<date>Sun May 14 16:30:00 BST 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>31848</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 17:30:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>31949</attendance>
+	</match>
+	<match>
+		<date>Sun Mar 19 14:15:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>31697</attendance>
+	</match>
+	<match>
+		<date>Sun Feb 26 13:30:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>31864</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 18 16:30:00 BST 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>31251</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 15:00:00 GMT 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>5</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>31663</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 12:30:00 BST 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>31706</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 12:30:00 GMT 2017</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>31613</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 17:30:00 GMT 2016</date>
+		<homeTeam>Tottenham Hotspur</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>31212</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 01 15:00:00 BST 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>20575</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 27 15:00:00 BST 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>20545</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>20178</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 15:00:00 BST 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>20772</attendance>
+	</match>
+	<match>
+		<date>Mon Dec 26 12:30:00 GMT 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>20304</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 10 12:30:00 GMT 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>20769</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 15:00:00 BST 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>20022</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 19 15:00:00 GMT 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>20640</attendance>
+	</match>
+	<match>
+		<date>Mon May 01 20:00:00 BST 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>20959</attendance>
+	</match>
+	<match>
+		<date>Sun May 21 15:00:00 BST 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>5</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>20829</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 18 12:00:00 BST 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>21118</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>20659</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 15:00:00 GMT 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>20670</attendance>
+	</match>
+	<match>
+		<date>Sun Nov 27 12:00:00 GMT 2016</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>20058</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 01 15:00:00 BST 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>20805</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 15 15:00:00 BST 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>20272</attendance>
+	</match>
+	<match>
+		<date>Sun Jan 01 13:30:00 GMT 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>20882</attendance>
+	</match>
+	<match>
+		<date>Tue Apr 04 19:45:00 BST 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>20090</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 17:30:00 GMT 2017</date>
+		<homeTeam>Watford</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>20702</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 25 15:00:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>24162</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 12:30:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>24065</attendance>
+	</match>
+	<match>
+		<date>Mon Nov 21 20:00:00 GMT 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>23016</attendance>
+	</match>
+	<match>
+		<date>Fri May 12 20:00:00 BST 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>25367</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 04 15:00:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>24051</attendance>
+	</match>
+	<match>
+		<date>Sat Aug 20 15:00:00 BST 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>23654</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 15:00:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+	</match>
+	<match>
+		<date>Sat Apr 29 15:00:00 BST 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>24611</attendance>
+	</match>
+	<match>
+		<date>Sun Apr 16 13:30:00 BST 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>25669</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 29 15:00:00 BST 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>22470</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 17:30:00 GMT 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>26308</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 28 13:30:00 BST 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>23690</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 15:00:00 BST 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>24697</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 04 15:00:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>23921</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 21 15:00:00 GMT 2017</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>24380</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 20:00:00 GMT 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>21467</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 15 15:00:00 BST 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>24263</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 15:00:00 GMT 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>22244</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 17 15:00:00 BST 2016</date>
+		<homeTeam>West Bromwich Albion</homeTeam>
+		<homeTeamScore>4</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Ham United</awayTeam>
+		<attendance>22209</attendance>
+	</match>
+	<match>
+		<date>Sun Aug 21 16:00:00 BST 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>AFC Bournemouth</awayTeam>
+		<attendance>56977</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 03 17:30:00 GMT 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>5</awayTeamScore>
+		<awayTeam>Arsenal</awayTeam>
+		<attendance>56980</attendance>
+	</match>
+	<match>
+		<date>Wed Dec 14 19:45:00 GMT 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Burnley</awayTeam>
+		<attendance>56990</attendance>
+	</match>
+	<match>
+		<date>Mon Mar 06 20:00:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Chelsea</awayTeam>
+		<attendance>56984</attendance>
+	</match>
+	<match>
+		<date>Sat Jan 14 15:00:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>3</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Crystal Palace</awayTeam>
+		<attendance>56984</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 22 15:00:00 BST 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Everton</awayTeam>
+		<attendance>56971</attendance>
+	</match>
+	<match>
+		<date>Sat Dec 17 15:00:00 GMT 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Hull City</awayTeam>
+		<attendance>56952</attendance>
+	</match>
+	<match>
+		<date>Sat Mar 18 15:00:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Leicester City</awayTeam>
+		<attendance>56979</attendance>
+	</match>
+	<match>
+		<date>Sun May 14 14:15:00 BST 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Liverpool</awayTeam>
+		<attendance>56985</attendance>
+	</match>
+	<match>
+		<date>Wed Feb 01 19:45:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Manchester City</awayTeam>
+		<attendance>56980</attendance>
+	</match>
+	<match>
+		<date>Mon Jan 02 17:15:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>Manchester United</awayTeam>
+		<attendance>56996</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 01 15:00:00 BST 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Middlesbrough</awayTeam>
+		<attendance>56945</attendance>
+	</match>
+	<match>
+		<date>Sun Sep 25 16:00:00 BST 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>0</homeTeamScore>
+		<awayTeamScore>3</awayTeamScore>
+		<awayTeam>Southampton</awayTeam>
+		<attendance>56864</attendance>
+	</match>
+	<match>
+		<date>Sat Nov 05 15:00:00 GMT 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>1</awayTeamScore>
+		<awayTeam>Stoke City</awayTeam>
+		<attendance>56970</attendance>
+	</match>
+	<match>
+		<date>Sat Oct 22 15:00:00 BST 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Sunderland</awayTeam>
+		<attendance>56985</attendance>
+	</match>
+	<match>
+		<date>Sat Apr 08 15:00:00 BST 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Swansea City</awayTeam>
+		<attendance>56973</attendance>
+	</match>
+	<match>
+		<date>Fri May 05 20:00:00 BST 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>1</homeTeamScore>
+		<awayTeamScore>0</awayTeamScore>
+		<awayTeam>Tottenham Hotspur</awayTeam>
+		<attendance>56992</attendance>
+	</match>
+	<match>
+		<date>Sat Sep 10 15:00:00 BST 2016</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>4</awayTeamScore>
+		<awayTeam>Watford</awayTeam>
+		<attendance>56974</attendance>
+	</match>
+	<match>
+		<date>Sat Feb 11 15:00:00 GMT 2017</date>
+		<homeTeam>West Ham United</homeTeam>
+		<homeTeamScore>2</homeTeamScore>
+		<awayTeamScore>2</awayTeamScore>
+		<awayTeam>West Bromwich Albion</awayTeam>
+		<attendance>56983</attendance>
+	</match>
+</matchGrid>
